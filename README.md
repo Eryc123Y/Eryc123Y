@@ -2,9 +2,8 @@
 
 <h3 align="center">A CS Undergrad Student from Monash University Malaysia</h3>
 <div align="left">
-<p>Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems and currently expanding my knowledge in full-stack development.</p>
-<p>I'm also actively working on algorithm notes and learning Vue.js. This year, I aim to broaden my expertise in mobile development and databases.</p>
-<p>I am also thinking about developing a framwork for my own blog, while make a vue3 project for algorithm visualisation this year.</p>
+<p>Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems and currently expanding my knowledge in full-stack development and LLM application.</p>
+<p>I'm also actively working on my blog and a LLM web/mobile app. This year, I aim to broaden my expertise in mobile and fullstack development and AI.</p>
 </div>
 <br/>
 <div align="left">
