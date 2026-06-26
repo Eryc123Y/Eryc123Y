@@ -62,18 +62,10 @@ The icon set here uses [Shields.io](https://shields.io/) badges backed by [Simpl
 
 ## Recent Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/0-profile-details.svg">
-  <img alt="GitHub profile activity summary" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/0-profile-details.svg">
-</picture>
-
-<p>
-  <img alt="Repositories by language" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
-  <img alt="Commit language summary" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
-</p>
-
-<p>
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/3-stats.svg" width="49%">
-  <img alt="Productive time summary" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/4-productive-time.svg" width="49%">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-3d-contrib/night.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-3d-contrib/day.svg">
+    <img alt="3D GitHub contribution calendar" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-3d-contrib/day.svg">
+  </picture>
 </p>
