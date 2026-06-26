@@ -1,95 +1,81 @@
-<h2 align="center">👋 Hi, I'm Xingyu Yang (Eric)</h2>
-
-<h3 align="center">A CS Undergrad Student from Monash University Malaysia</h3>
-<div align="left">
-<p>Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems and currently expanding my knowledge in full-stack development and LLM application.</p>
-<p>I'm also actively working on my blog and a LLM web/mobile app. This year, I aim to broaden my expertise in mobile and fullstack development and AI.</p>
-</div>
-<br/>
-<div align="left">
-<h3>💡 Interests & Background</h3>
-<ul>
-<li><b>Math Enthusiast:</b> I have a deep love for pure mathematics and believe it can significantly enhance the theoretical aspects of computer science.</li>
-<li><b>Linguistics Amateur:</b> I'm eager to delve into theoretical linguistics and explore its intersection with mathematics and computer science.</li>
-<li><b>LLM Fan:</b> I'm fascinated by Large Language Models and aspire to contribute to explainable AI. I'm also drawn to theoretical computation and theorem proving, seeking to explore symbolic AI approaches.</li>
-</ul>
-</div>
-<br/>
 <div align="center">
-<a href="https://github.com/Eryc123Y">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eryc123Y&show_icons=true&include_all_commits=true&count_private=true&theme=light" alt="Eryc123Y's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryc123Y&layout=compact&langs_count=8&theme=light" alt="Eryc123Y's Top Languages" />
-</a>
-</div>
-<br/>
-<div align="left">
-<h3>🛠️ Technologies & Tools</h3>
-<p>Here are some of the technologies and tools I'm familiar with:</p>
-<p>
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+# Xingyu Yang (Eric)
+
+CS student at Monash University Malaysia. I care about AI as a long-term research craft: representation, explanation, language, and the mathematical structure underneath learning systems.
+
+[![Blog](https://img.shields.io/badge/Blog-eryc123y.github.io%2Fblog-0A66C2?style=flat-square&logo=vuedotjs&logoColor=white)](https://eryc123y.github.io/blog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xingyu%20Yang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingyu-yang-570685258/)
+[![Email](https://img.shields.io/badge/Email-xyan0147%40student.monash.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xyan0147@student.monash.edu)
+
+</div>
+
+## Research Direction
+
+I am moving away from treating software engineering as the main identity. I still build systems, but mostly because they give me better instruments for research, writing, and long-running thought.
+
+The questions I keep returning to:
+
+- **Cross-modal representation learning**: how vision, language, geometry, and 3D signals can share structure without collapsing into shallow alignment.
+- **Explainability**: how to inspect model behavior without reducing explanation to pretty saliency maps or post-hoc stories.
+- **Ontological systems and world models**: how models organize objects, relations, events, affordances, and latent rules of a world.
+- **Linguistics, mathematics, and computer science**: how formal structure, semantics, optimization, and computation meet inside intelligent systems.
+
+## Current Work
+
+- **ComfortStereo / FYP**: comfort-aware 2D-to-3D and stereo video generation, with an emphasis on evaluation, controllability, and human viewing constraints.
+- **Personal AI workbench**: Codex for interactive engineering, Hermes for recurring orchestration, PLUR for cross-agent memory, and Obsidian as a second-brain substrate inspired by Karpathy's LLM Wiki pattern.
+- **Writing and knowledge systems**: bilingual technical notes on AI tools, research workflow, mathematical foundations, and the small operational details that make a research setup usable over time.
+
+## Research and Engineering Stack
+
+The icon set here uses [Shields.io](https://shields.io/) badges backed by [Simple Icons](https://simpleicons.org/). I prefer this over a large raw-logo wall because it stays readable, has stable SVG output, and covers research tools that generic dev icon sets often miss.
+
+**AI / data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Research writing**
+
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
+
+**Systems and workflow**
+
+![NixOS](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Web surfaces**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![VuePress](https://img.shields.io/badge/VuePress-3EAF7C?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+## Recent Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/0-profile-details.svg">
+  <img alt="GitHub profile activity summary" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/0-profile-details.svg">
+</picture>
+
+<p>
+  <img alt="Repositories by language" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
+  <img alt="Commit language summary" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
 </p>
-</div>
-<br/>
-<div align="left">
-<h3>📫 Let's Connect!</h3>
-<p>Feel free to reach out to me through the following channels:</p>
-<a href="https://www.instagram.com/ericy2234/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-<a href="mailto:xyan0147@student.monash.edu" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-<a href="https://www.linkedin.com/in/xingyu-yang-570685258/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-</div>
+
+<p>
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/3-stats.svg" width="49%">
+  <img alt="Productive time summary" src="https://raw.githubusercontent.com/Eryc123Y/Eryc123Y/main/profile-summary-card-output/github/4-productive-time.svg" width="49%">
+</p>
