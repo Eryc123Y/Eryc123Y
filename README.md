@@ -21,11 +21,9 @@ The questions I keep returning to:
 - **Ontological systems and world models**: how models organize objects, relations, events, affordances, and latent rules of a world.
 - **Linguistics, mathematics, and computer science**: how formal structure, semantics, optimization, and computation meet inside intelligent systems.
 
-## Current Work
+## Current Research Work
 
 - **ComfortStereo / FYP**: comfort-aware 2D-to-3D and stereo video generation, with an emphasis on evaluation, controllability, and human viewing constraints.
-- **Personal AI workbench**: Codex for interactive engineering, Hermes for recurring orchestration, PLUR for cross-agent memory, and Obsidian as a second-brain substrate inspired by Karpathy's LLM Wiki pattern.
-- **Writing and knowledge systems**: bilingual technical notes on AI tools, research workflow, mathematical foundations, and the small operational details that make a research setup usable over time.
 
 ## Research and Engineering Stack
 
