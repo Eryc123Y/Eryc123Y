@@ -27,7 +27,7 @@ The questions I keep returning to:
 
 ## Research and Engineering Stack
 
-The icon set here uses [Shields.io](https://shields.io/) badges backed by [Simple Icons](https://simpleicons.org/). I prefer this over a large raw-logo wall because it stays readable, has stable SVG output, and covers research tools that generic dev icon sets often miss.
+The icon set here uses [Shields.io](https://shields.io/) badges backed by [Simple Icons](https://simpleicons.org/).
 
 **AI / data**
 
