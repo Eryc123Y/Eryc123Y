@@ -2,7 +2,7 @@
 
 # Xingyu Yang (Eric)
 
-CS student at Monash University Malaysia. I care about AI as a long-term research craft: representation, explanation, language, and the mathematical structure underneath learning systems.
+Final-year CS student at Monash University Malaysia and **incoming Honours student (2027)** with **[Prof. Raphaël C.-W. Phan](https://raphaelphan.github.io/research/)** at the School of Information Technology. I work where linguistics, mathematics, and computer science meet: representation learning, learning theory, and how learning systems come to carry structure.
 
 [![Blog](https://img.shields.io/badge/Blog-eryc123y.github.io%2Fblog-0A66C2?style=flat-square&logo=vuedotjs&logoColor=white)](https://eryc123y.github.io/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xingyu%20Yang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingyu-yang-570685258/)
@@ -10,24 +10,37 @@ CS student at Monash University Malaysia. I care about AI as a long-term researc
 
 </div>
 
+## Now
+
+- **Incoming Honours student (2027), Monash University Malaysia**, supervised by [Prof. Raphaël C.-W. Phan](https://raphaelphan.github.io/research/). The main focus is 3D vision. Alongside it I am exploring other directions, including agents that use formal verifiers as tools to check their own work.
+- **ComfortStereo (final-year project).** Comfort-aware 2D-to-3D and stereo video generation, with an emphasis on evaluation, controllability, and human viewing constraints. Being written up as a paper.
+- **Previously:** research intern at Xiaohongshu (RedNote), Nov 2025 to Feb 2026, on an agentic GUI testing system for mobile apps.
+
 ## Research Direction
 
-I am moving away from treating software engineering as the main identity. I still build systems, but mostly because they give me better instruments for research, writing, and long-running thought.
+My long-term interest sits at the intersection of **linguistics, mathematics, and computer science**. I want to understand what structure a learner picks up from its data, how much evidence that takes, and how we can check what it has actually learned. The questions I keep returning to:
 
-The questions I keep returning to:
+- **Representation learning**: how vision, language, geometry, and 3D signals can share structure without collapsing into shallow alignment.
+- **Learning theory**: how much data, and what kind of feedback, a learner needs; and how to tell a learner that got less evidence from one that used its evidence poorly.
+- **Language and meaning**: how linguistic structure and formal semantics show up, or fail to show up, inside learned models.
+- **Interpretability**: how to inspect model behavior without reducing explanation to saliency maps or post-hoc stories.
+- **3D vision and world models**: how models organize objects, geometry, and the latent rules of a world.
 
-- **Cross-modal representation learning**: how vision, language, geometry, and 3D signals can share structure without collapsing into shallow alignment.
-- **Explainability**: how to inspect model behavior without reducing explanation to pretty saliency maps or post-hoc stories.
-- **Ontological systems and world models**: how models organize objects, relations, events, affordances, and latent rules of a world.
-- **Linguistics, mathematics, and computer science**: how formal structure, semantics, optimization, and computation meet inside intelligent systems.
+I still build software, mostly because it gives me better instruments for research and writing.
 
-## Current Research Work
+## Open-Source Work
 
-- **ComfortStereo / FYP**: comfort-aware 2D-to-3D and stereo video generation, with an emphasis on evaluation, controllability, and human viewing constraints.
+| Project | What it is |
+|---|---|
+| [algorithm-visualizer](https://github.com/Eryc123Y/algorithm-visualizer) · [AlgoMotion](https://algomotion.turing2234.com) | Every step of an algorithm, drawn: a web player, Typst and LaTeX figures, slides, a CLI and an MCP server, from one algorithm name and your input. |
+| [unofficial-monash-slides-typst](https://github.com/Eryc123Y/unofficial-monash-slides-typst) | Monash-inspired slide theme for Typst, built on Touying. On [Typst Universe](https://typst.app/universe/package/unofficial-monash-touying). |
+| [unofficial-monash-report](https://github.com/Eryc123Y/unofficial-monash-report) | Typst template for Monash STEM assignments and reports. |
+| [scholia](https://github.com/Eryc123Y/scholia) | Fill-in study notes and book template for STEM, built for active recall. |
+| [nix-sync](https://github.com/Eryc123Y/nix-sync) | One Nix repository for macOS, NixOS, and Linux: shared tools and dotfiles, platform-specific settings. |
+| [personal-skills](https://github.com/Eryc123Y/personal-skills) | Claude Code skills for research work: paper figures, analysis, diagramming. |
+| [Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science) | A math resource for CS students (archived; the content is moving to my [blog](https://eryc123y.github.io/blog/)). |
 
 ## Research and Engineering Stack
-
-The icon set here uses [Shields.io](https://shields.io/) badges backed by [Simple Icons](https://simpleicons.org/).
 
 **AI / data**
 
@@ -57,7 +70,6 @@ The icon set here uses [Shields.io](https://shields.io/) badges backed by [Simpl
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![VuePress](https://img.shields.io/badge/VuePress-3EAF7C?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ## Recent Activity
