@@ -13,8 +13,8 @@ Final-year CS student at Monash University Malaysia and **incoming Honours stude
 ## Now
 
 - **Incoming Honours student (2027), Monash University Malaysia**, supervised by [Prof. Raphaël C.-W. Phan](https://raphaelphan.github.io/research/). The main focus is 3D vision. Alongside it I am exploring other directions, including agents that use formal verifiers as tools to check their own work.
-- **ComfortStereo (final-year project).** Comfort-aware 2D-to-3D and stereo video generation, with an emphasis on evaluation, controllability, and human viewing constraints. Being written up as a paper.
-- **Previously:** research intern at Xiaohongshu (RedNote), Nov 2025 to Feb 2026, on an agentic GUI testing system for mobile apps.
+- **Final-year project: comfort-aware 2D-to-3D video conversion**, with an emphasis on evaluation, controllability, and human viewing constraints. Being written up as a paper.
+- **Previously:** AI intern at Xiaohongshu (RedNote), Nov 2025 to Feb 2026, building an agentic GUI testing system for mobile apps and other agentic systems.
 
 ## Research Direction
 
