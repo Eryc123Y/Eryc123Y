@@ -4,7 +4,7 @@
 
 Final-year CS student at Monash University Malaysia and **incoming Honours student (2027)** with **[Prof. Raphaël C.-W. Phan](https://raphaelphan.github.io/research/)** at the School of Information Technology. I work where linguistics, mathematics, and computer science meet: representation learning, learning theory, and how learning systems come to carry structure.
 
-[![Blog](https://img.shields.io/badge/Blog-eryc123y.github.io%2Fblog-0A66C2?style=flat-square&logo=vuedotjs&logoColor=white)](https://eryc123y.github.io/blog/)
+[![Blog](https://img.shields.io/badge/Blog-blog.turing2234.com-0A66C2?style=flat-square&logo=vuedotjs&logoColor=white)](https://blog.turing2234.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xingyu%20Yang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingyu-yang-570685258/)
 [![Email](https://img.shields.io/badge/Email-xyan0147%40student.monash.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xyan0147@student.monash.edu)
 
@@ -38,7 +38,7 @@ I still build software, mostly because it gives me better instruments for resear
 | [scholia](https://github.com/Eryc123Y/scholia) | Fill-in study notes and book template for STEM, built for active recall. |
 | [nix-sync](https://github.com/Eryc123Y/nix-sync) | One Nix repository for macOS, NixOS, and Linux: shared tools and dotfiles, platform-specific settings. |
 | [personal-skills](https://github.com/Eryc123Y/personal-skills) | Claude Code skills for research work: paper figures, analysis, diagramming. |
-| [Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science) | A math resource for CS students (archived; the content is moving to my [blog](https://eryc123y.github.io/blog/)). |
+| [Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science) | A math resource for CS students (archived; the content is moving to my [blog](https://blog.turing2234.com/)). |
 
 ## Research and Engineering Stack
 
